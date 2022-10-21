@@ -1,3 +1,6 @@
+#<b> IMPORTANTE  </b>
+
+
 <p> Para crear usuarios y la base de datos usar (" php artisan db:seed --class=DatabaseSeeder "), el admin se crea como admin@admin.com y su contraseña es "admin"
 los usuarios normales llevan por defecto la contraseña "password".
 </p>
