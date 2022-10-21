@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/laravel/compare/v9.3.8...9.x)
+## [Unreleased](https://github.com/laravel/laravel/compare/TIP...master)
+
+## [TIP](https://github.com/laravel/laravel/compare/v9.3.8...TIP) - 2022-10-20
+
+Para crear datos usar ("php artisan db:seed --class=DatabaseSeeder")
 
 ## [v9.3.8](https://github.com/laravel/laravel/compare/v9.3.7...v9.3.8) - 2022-09-20
 
