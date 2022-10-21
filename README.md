@@ -1,3 +1,7 @@
+<p> Para crear usuarios y la base de datos usar (" php artisan db:seed --class=DatabaseSeeder "), el admin se crea como admin@admin.com y su contraseña es "admin"
+los usuarios normales llevan por defecto la contraseña "password".
+</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
